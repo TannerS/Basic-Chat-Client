@@ -6,10 +6,8 @@ import java.io.OutputStream;
 import java.io.PrintStream;
 import java.net.Socket;
 import java.util.Scanner;
-import java.util.logging.Level;
-import java.util.logging.Logger;
 
-public final class ChatClient 
+public class ChatClient 
 {
     public static void main(String[] args) throws Exception 
     {
